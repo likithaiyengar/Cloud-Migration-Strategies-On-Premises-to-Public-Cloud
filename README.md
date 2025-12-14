@@ -62,3 +62,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Acknowledgements
+
+Special thanks to [Ayush S](https://github.com/ayush007-lio) for guidance and support.
